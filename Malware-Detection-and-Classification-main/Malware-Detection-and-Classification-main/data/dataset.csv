@@ -1,0 +1,6 @@
+feature1,feature2,feature3,feature4,label
+15,0.5,100,0.2,malware
+8,0.3,80,0.1,benign
+20,0.6,120,0.25,malware
+10,0.4,90,0.15,benign
+18,0.55,110,0.23,malware
